@@ -32,14 +32,17 @@
       "description": "Set to 'true' ONLY for development/testing. Keep 'false' for production." 
     },
     "TGINDEX_USERNAME": { 
+      "required": false,
       "value": "",
       "description": "Username for app authentication (if you want to restrict access)." 
     },
     "PASSWORD": { 
+      "required": false,
       "value": "",
       "description": "Password for app authentication (if you set a username)." 
     },
     "SECRET_KEY": { 
+      "required": false,
       "value": "",
       "description": "Secure key for session handling. Generate using a Python secret key generator."
     } 
