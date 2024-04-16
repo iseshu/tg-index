@@ -6,3 +6,4 @@ cryptg
 pillow
 aiohttp_session[secure]
 python-dotenv
+markupsafe==1.1.1
