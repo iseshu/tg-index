@@ -1,5 +1,5 @@
 aiohttp
-flask
+aiohttp-jinja2
 telethon
 cryptg
 pillow
